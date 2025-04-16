@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    padding: 4rem 0;
+    background: linear-gradient(135deg, #375a7f 0%, #222 100%);
+}
+
+.hero h1 span {
+    color: #00bc8c;
+}
+
+.testimonial {
+    background-color: #375a7f;
+}
+
+.custom-card {
+    transition: transform 0.3s ease;
+    height: 100%;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 20px;
+}
