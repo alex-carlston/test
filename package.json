@@ -1,0 +1,35 @@
+{
+  "name": "cuspire-nextjs",
+  "version": "1.0.0",
+  "description": "CUSpire - Credit Union Innovation Community",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "bootstrap",
+    "cuspire"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@supabase/supabase-js": "^2.49.4",
+    "bootstrap": "^5.2.3",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "latest"
+  }
+}
